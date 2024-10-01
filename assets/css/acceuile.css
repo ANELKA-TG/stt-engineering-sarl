@@ -14,15 +14,20 @@
     border: 0;
 }
 body{
-    height: 100%;
-    width: 100%;
-    background-color: brown;
-    color: aliceblue;
+    background-color: rgba(255, 255, 255, 0.705);
 }
 .carousel-item{
-    background-color: rgba(0, 0, 0, 0.417);
+    background-color: rgba(0, 0, 0, 0.575);
+    height: 30rem;
 }
 .navbar{
-    background-image: linear-gradient(to right,white,grey,white);
+    background-image: linear-gradient(to right,white,rgb(156, 154, 154),white);
  }
-
+.dsp{
+    font-style: oblique;
+    font-family: stencil Std, cursive;
+}
+.section{
+  background: url(/assets/imgs/stt.building.jpg) 100%; 
+  width: 100%;
+}
