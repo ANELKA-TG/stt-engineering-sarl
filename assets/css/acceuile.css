@@ -17,7 +17,7 @@ body{
     background-color: rgba(255, 255, 255, 0.705);
 }
 .carousel-item{
-    background-color: rgba(0, 0, 0, 0.575);
+    background-color: rgba(0, 0, 0, 0.459);
     height: 30rem;
 }
 .navbar{
@@ -26,8 +26,4 @@ body{
 .dsp{
     font-style: oblique;
     font-family: stencil Std, cursive;
-}
-.section{
-  background: url(/assets/imgs/stt.building.jpg) 100%; 
-  width: 100%;
 }
